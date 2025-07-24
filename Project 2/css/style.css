@@ -1,0 +1,142 @@
+body{
+      font-family: "Montserrat", sans-serif;
+
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    border-bottom: 1px solid;
+    position: fixed;
+  background-color: white;
+  width: 100%;
+    padding: 20px;
+    font-size: 30px;
+    letter-spacing: 2px;
+    
+}
+.navt{
+    float: left;
+}
+.navt2 a{
+    margin: 0 10px;
+text-decoration: none;
+color: black;
+float: right;
+display: fle;
+
+}
+.logimg img{
+    margin-top: 120px;
+    float: left;
+    width: 40%;
+}
+.log{
+    float: right;
+    margin-top: 250px;
+    font-size: 30px;
+    margin-right: 600px;
+}
+
+.log .form input{
+    border: none;
+    outline: none;
+}
+
+.log .form a{
+    text-decoration: none;
+    color: brown;
+    font-size: 18px;
+    margin-left: 200px;
+}
+
+.log .form button{
+    border: none;
+    background-color: brown;
+    color: white;
+    width: 80px;
+    height: 50px;
+    font-size: 18px;
+    border-radius: 10%;
+}
+
+.bot{
+    margin-top: 5px;
+    display: flex;
+    color: white;
+    margin-top:739px;
+    background-color:black;
+    width: 100%;
+    height: 25%;
+}
+
+.bot .subs{
+    font-size: 17px;
+    padding-top: 10px;
+    padding-left: 15px;
+    width: 25%
+    float: left;
+}
+
+.bot .subs input{
+    width: ;
+    height: 15%;
+    border: 2px solid;
+    color: white;
+    background-color: black;
+}
+.bot .supp{
+    margin-top: 25px;
+margin-left: 80px;
+width: 25%;
+
+}
+
+.bot .acc{
+        margin-top: 25px;
+
+width: 25%;
+}
+
+.bot .qlinks{
+        margin-top: 25px;
+width: 25%;
+}
+
+.bot .app{
+    margin-left: 40px;
+            margin-top: 20px;
+width: 15%;
+}
+
+
+
+.bot .supp ul{
+list-style-type: none
+;}
+
+.bot .acc ul{
+list-style-type: none
+
+}
+
+.bot .app ul{
+list-style-type: none
+
+}
+
+.bot .qlinks ul{
+list-style-type: none
+
+}
+
+
+
+.bot .app .qr{
+    display: inline;
+}
+.bot .app .appst{
+    height: 30px;
+    width: 25%;
+    display: inline;
+}   
+
